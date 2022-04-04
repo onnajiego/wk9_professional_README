@@ -29,7 +29,7 @@
     
   ---
   ## Visuals:
-    ![]()
+  ![VScodeinquirer](https://user-images.githubusercontent.com/98449227/161646008-37840832-599f-4b33-be4e-efe07d0aa851.JPG)
   ---
   ## Installation:
     create repo, clone repo, run npm install before installing any dependecies, run npm i inquirer, create index.js to run dependecies
