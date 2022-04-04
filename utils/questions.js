@@ -61,11 +61,6 @@ const questions = [
     },
     {
       type: "input",
-      name: "URL",
-      message: "What is the URL of the live site?",
-    },
-    {
-      type: "input",
       name: "repo",
       message: "What is the URL of the github repo?",
     },
